@@ -9,8 +9,8 @@ It's required to have [npm](https://www.npmjs.com/get-npm) installed locally to 
 It's required to have [node](https://nodejs.org/en/download/) installed locally to follow the instructions.
 
 ```shell
-git clone https://github.com/julykaz/easyretro-export.git
-cd easyretro-export
+git clone https://github.com/abnegru31/easyretro-exporter.git
+cd easyretro-exporter
 npm install
 
 # Use API or CLI.
