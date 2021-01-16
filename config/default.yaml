@@ -1,0 +1,7 @@
+api-name: api
+port: 3000
+
+easy-retro:
+  paths:
+    describer: d.b.p
+    value: d.b.d
